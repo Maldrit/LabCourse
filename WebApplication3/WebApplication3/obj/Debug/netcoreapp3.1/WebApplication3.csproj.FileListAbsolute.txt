@@ -1,0 +1,93 @@
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\florentina\Documents\lab project\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\florentina\Documents\LabCourse\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
